@@ -3,7 +3,7 @@
 ## Brief
 A simple RESTful API which will convert an integer to its roman numeral counterpart. This solution contains three API endpoints, and only supports integers ranging from 1 to 3999. It keeps track of conversions to determine which is the most frequently converted integer, and the last time this was converted.
 
-### Endpoints Required
+### Endpoints
  1. Accepts an integer, converts it to a roman numeral, stores it in the database and returns the response.
  2. Lists all the recently converted integers.
  3. Lists the top 10 converted integers.
